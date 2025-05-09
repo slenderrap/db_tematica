@@ -1,0 +1,72 @@
+[
+    {
+      "title": "Bohemian Rhapsody",
+      "album": "A Night at the Opera",
+      "year": 1975,
+      "duration": "5:55",
+      "compositor": "Freddie Mercury"
+    },
+    {
+      "title": "We Are the Champions",
+      "album": "News of the World",
+      "year": 1977,
+      "duration": "2:59",
+      "compositor": "Freddie Mercury"
+    },
+    {
+      "title": "Another One Bites the Dust",
+      "album": "The Game",
+      "year": 1980,
+      "duration": "3:35",
+      "compositor": "John Deacon"
+    },
+    {
+      "title": "Don't Stop Me Now",
+      "album": "Jazz",
+      "year": 1978,
+      "duration": "3:29",
+      "compositor": "Freddie Mercury"
+    },
+    {
+      "title": "Killer Queen",
+      "album": "Sheer Heart Attack",
+      "year": 1974,
+      "duration": "2:59",
+      "compositor": "Freddie Mercury"
+    },
+    {
+      "title": "Somebody to Love",
+      "album": "A Day at the Races",
+      "year": 1976,
+      "duration": "4:56",
+      "compositor": "Freddie Mercury"
+    },
+    {
+      "title": "Under Pressure",
+      "album": "Hot Space",
+      "year": 1981,
+      "duration": "4:08",
+      "compositor": "Queen & David Bowie"
+    },
+    {
+      "title": "Radio Ga Ga",
+      "album": "The Works",
+      "year": 1984,
+      "duration": "5:48",
+      "compositor": "Roger Taylor"
+    },
+    {
+      "title": "I Want to Break Free",
+      "album": "The Works",
+      "year": 1984,
+      "duration": "4:22",
+      "compositor": "John Deacon"
+    },
+    {
+      "title": "The Show Must Go On",
+      "album": "Innuendo",
+      "year": 1991,
+      "duration": "4:30",
+      "compositor": "Brian May"
+    }
+  ]

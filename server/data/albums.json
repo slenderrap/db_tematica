@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Queen",
+      "year": 1973,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "Queen II",
+      "year": 1974,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "Sheer Heart Attack",
+      "year": 1974,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "A Night at the Opera",
+      "year": 1975,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "A Day at the Races",
+      "year": 1976,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "News of the World",
+      "year": 1977,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "Jazz",
+      "year": 1978,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "The Game",
+      "year": 1980,
+      "genre": "Rock",
+      "discografy": "Elektra"
+    },
+    {
+      "name": "Flash Gordon",
+      "year": 1980,
+      "genre": "Soundtrack",
+      "discografy": "EMI"
+    },
+    {
+      "name": "Hot Space",
+      "year": 1982,
+      "genre": "Pop/Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "The Works",
+      "year": 1984,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "A Kind of Magic",
+      "year": 1986,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "The Miracle",
+      "year": 1989,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "Innuendo",
+      "year": 1991,
+      "genre": "Rock",
+      "discografy": "EMI"
+    },
+    {
+      "name": "Made in Heaven",
+      "year": 1995,
+      "genre": "Rock",
+      "discografy": "EMI"
+    }
+  ]

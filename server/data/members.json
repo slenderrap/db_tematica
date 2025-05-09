@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Freddie Mercury",
+      "role": "Vocalista principal",
+      "yearsOld": 45,
+      "born_year": "1946-09-05",
+      "born_locate": "Zanzíbar, Tanzania",
+      "instrumentos": ["Voz", "Piano"],
+      "fallecimiento": "1991-11-24",
+      "causa_fallecimiento": "Complicaciones por SIDA"
+    },
+    {
+      "name": "Brian May",
+      "role": "Guitarrista",
+      "yearsOld": 76,
+      "born_year": "1947-07-19",
+      "born_locate": "Hampton, Londres, Reino Unido",
+      "instrumentos": ["Guitarra", "Voz"],
+      "education": "Doctorado en Astrofísica"
+    },
+    {
+      "name": "Roger Taylor",
+      "role": "Baterista",
+      "yearsOld": 74,
+      "born_year": "1949-07-26",
+      "born_locate": "King's Lynn, Norfolk, Reino Unido",
+      "instrumentos": ["Batería", "Voz", "Guitarra"]
+    },
+    {
+      "name": "John Deacon",
+      "role": "Bajista",
+      "yearsOld": 72,
+      "born_year": "1951-08-19",
+      "born_locate": "Oadby, Leicestershire, Reino Unido",
+      "instrumentos": ["Bajo", "Guitarra", "Teclados"],
+      "retiro": "1997"
+    }
+  ]
