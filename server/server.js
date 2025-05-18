@@ -51,19 +51,19 @@ app.get('/api/songs', (req, res) => {
 app.get('/api/images/:imageName', (req, res) => {
     const imageName = req.params.imageName;
     const imagePath = path.join(__dirname, 'images', imageName);
-  
+
     // Verificar si la imagen existe
     fs.access(imagePath, fs.constants.F_OK, (err) => {
       if (err) {
         return res.status(404).json({ error: 'Imagen no encontrada' });
       }
-  
+
       // Obtener el tipo MIME de la imagen
       const mimeType = getMimeType(imageName);
       if (!mimeType) {
         return res.status(400).json({ error: 'Formato de imagen no soportado' });
       }
-  
+
       // Leer y servir la imagen
       fs.readFile(imagePath, (err, data) => {
         if (err) {
@@ -73,7 +73,23 @@ app.get('/api/images/:imageName', (req, res) => {
         res.send(data);
       });
     });
-  });
+});
+
+// Función para determinar el tipo MIME de la imagen
+function getMimeType(filename) {
+    const extension = filename.split('.').pop().toLowerCase();
+    switch (extension) {
+      case 'jpg':
+      case 'jpeg':
+        return 'image/jpeg';
+      case 'png':
+        return 'image/png';
+      case 'gif':
+        return 'image/gif';
+      default:
+        return null;
+    }
+}
   
   // Función para determinar el tipo MIME de la imagen
   function getMimeType(filename) {
