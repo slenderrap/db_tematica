@@ -3,91 +3,106 @@
       "name": "Queen",
       "year": 1973,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"queen.jpg"
     },
     {
       "name": "Queen II",
       "year": 1974,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"queenII.jpg"      
     },
     {
       "name": "Sheer Heart Attack",
       "year": 1974,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"sheer_heart_attack.jpg"
     },
     {
       "name": "A Night at the Opera",
       "year": 1975,
       "genre": "Rock",
       "discografy": "EMI",
-      "imageName": "a_night_at_the_opera.jpeg"
+      "image": "a_night_at_the_opera.jpeg"
     },
     {
       "name": "A Day at the Races",
       "year": 1976,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image": "A_Day_at_the_Races.jpg"
+
     },
     {
       "name": "News of the World",
       "year": 1977,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"news_of_the_world.jpg"
     },
     {
       "name": "Jazz",
       "year": 1978,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"jazz.jpg"
     },
     {
       "name": "The Game",
       "year": 1980,
       "genre": "Rock",
-      "discografy": "Elektra"
+      "discografy": "Elektra",
+      "image": "Queen_The_Game.png"
     },
     {
       "name": "Flash Gordon",
       "year": 1980,
       "genre": "Soundtrack",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"flash_gordon.jpg"
     },
     {
       "name": "Hot Space",
       "year": 1982,
       "genre": "Pop/Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"hot_space.jpg"
     },
     {
       "name": "The Works",
       "year": 1984,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"the_works.jpg"
     },
     {
       "name": "A Kind of Magic",
       "year": 1986,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"a_kind_of_magic.jpg"
     },
     {
       "name": "The Miracle",
       "year": 1989,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"the_miracle.jpg"
     },
     {
       "name": "Innuendo",
       "year": 1991,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"innuendo.jpg"
     },
     {
       "name": "Made in Heaven",
       "year": 1995,
       "genre": "Rock",
-      "discografy": "EMI"
+      "discografy": "EMI",
+      "image":"made_in_heaven.jpg"
     }
   ]

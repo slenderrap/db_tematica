@@ -4,69 +4,79 @@
       "album": "A Night at the Opera",
       "year": 1975,
       "duration": "5:55",
-      "compositor": "Freddie Mercury"
+      "compositor": "Freddie Mercury",
+      "image":"bohemian_rhapsody.jpg"
     },
     {
       "title": "We Are the Champions",
       "album": "News of the World",
       "year": 1977,
       "duration": "2:59",
-      "compositor": "Freddie Mercury"
+      "compositor": "Freddie Mercury",
+      "image":"we_are_the_champions.jpg"
     },
     {
       "title": "Another One Bites the Dust",
       "album": "The Game",
       "year": 1980,
       "duration": "3:35",
-      "compositor": "John Deacon"
+      "compositor": "John Deacon",
+      "image":"another_one_bites_the_dust.jpg"
     },
     {
       "title": "Don't Stop Me Now",
       "album": "Jazz",
       "year": 1978,
       "duration": "3:29",
-      "compositor": "Freddie Mercury"
+      "compositor": "Freddie Mercury",
+      "image":"dont_stop_me_now.jpg"
     },
     {
       "title": "Killer Queen",
       "album": "Sheer Heart Attack",
       "year": 1974,
       "duration": "2:59",
-      "compositor": "Freddie Mercury"
+      "compositor": "Freddie Mercury",
+      "image":"killer_queen.jpg"
     },
     {
       "title": "Somebody to Love",
       "album": "A Day at the Races",
       "year": 1976,
       "duration": "4:56",
-      "compositor": "Freddie Mercury"
+      "compositor": "Freddie Mercury",
+      "image":"somebody_to_love.jpg"
     },
     {
       "title": "Under Pressure",
       "album": "Hot Space",
       "year": 1981,
       "duration": "4:08",
-      "compositor": "Queen & David Bowie"
+      "compositor": "Queen & David Bowie",
+      "image":"under_pressure.jpg"
     },
     {
       "title": "Radio Ga Ga",
       "album": "The Works",
       "year": 1984,
       "duration": "5:48",
-      "compositor": "Roger Taylor"
+      "compositor": "Roger Taylor",
+      "image":"radio_ga_ga.jpg"
     },
     {
       "title": "I Want to Break Free",
       "album": "The Works",
       "year": 1984,
       "duration": "4:22",
-      "compositor": "John Deacon"
+      "compositor": "John Deacon",
+      "image":"i_want_to_break_free.jpg"
     },
     {
       "title": "The Show Must Go On",
       "album": "Innuendo",
       "year": 1991,
       "duration": "4:30",
-      "compositor": "Brian May"
+      "compositor": "Brian May",
+      "image":"the_show_must_go_on.jpg"
     }
   ]

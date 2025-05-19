@@ -4,6 +4,7 @@ class Song {
   final int year;
   final String duration; // Duración de la canción
   final String compositor; // Compositor
+  final String image;
 
   Song({
     required this.title,
@@ -11,6 +12,7 @@ class Song {
     required this.year,
     required this.duration,
     required this.compositor,
+    required this.image,
   });
 
   // Método factory para crear un objeto Song a partir de JSON
@@ -21,6 +23,7 @@ class Song {
       year: json['year'] ?? 0,
       duration: json['duration'] ?? 'Duración desconocida',
       compositor: json['compositor'] ?? 'Compositor desconocido',
+      image: json['image'] ?? 'none',
     );
   }
 
@@ -32,6 +35,7 @@ class Song {
       'year': year,
       'duration': duration,
       'compositor': compositor,
+      'image': image,
     };
   }
 }

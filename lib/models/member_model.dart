@@ -6,6 +6,7 @@ class Member {
   final String bornLocate; // Lugar de nacimiento
   final List<String> instrumentos; // Lista de instrumentos
   final String education; // Educación
+  final String image;
 
   Member({
     required this.name,
@@ -15,6 +16,7 @@ class Member {
     required this.bornLocate,
     required this.instrumentos,
     required this.education,
+    required this.image,
   });
 
   // Método factory para crear un objeto Member a partir de JSON
@@ -27,6 +29,7 @@ class Member {
       bornLocate: json['born_locate'] ?? 'Lugar desconocido',
       instrumentos: List<String>.from(json['instrumentos'] ?? []),
       education: json['education'] ?? 'Educación desconocida',
+      image: json['image'] ?? 'none',
     );
   }
 
@@ -40,6 +43,7 @@ class Member {
       'born_locate': bornLocate,
       'instrumentos': instrumentos,
       'education': education,
+      'image': image
     };
   }
 }

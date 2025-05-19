@@ -7,7 +7,8 @@
       "born_locate": "Zanzíbar, Tanzania",
       "instrumentos": ["Voz", "Piano"],
       "fallecimiento": "1991-11-24",
-      "causa_fallecimiento": "Complicaciones por SIDA"
+      "causa_fallecimiento": "Complicaciones por SIDA",
+      "image":"freddie_mercury.jpg"
     },
     {
       "name": "Brian May",
@@ -16,7 +17,8 @@
       "born_year": "1947-07-19",
       "born_locate": "Hampton, Londres, Reino Unido",
       "instrumentos": ["Guitarra", "Voz"],
-      "education": "Doctorado en Astrofísica"
+      "education": "Doctorado en Astrofísica",
+      "image":"brian_may.jpg"
     },
     {
       "name": "Roger Taylor",
@@ -24,7 +26,8 @@
       "yearsOld": 74,
       "born_year": "1949-07-26",
       "born_locate": "King's Lynn, Norfolk, Reino Unido",
-      "instrumentos": ["Batería", "Voz", "Guitarra"]
+      "instrumentos": ["Batería", "Voz", "Guitarra"],
+      "image":"roger_taylor.jpg"
     },
     {
       "name": "John Deacon",
@@ -33,6 +36,7 @@
       "born_year": "1951-08-19",
       "born_locate": "Oadby, Leicestershire, Reino Unido",
       "instrumentos": ["Bajo", "Guitarra", "Teclados"],
-      "retiro": "1997"
+      "retiro": "1997",
+      "image":"john_deacon.jpg"
     }
   ]

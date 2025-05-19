@@ -3,6 +3,7 @@ class Album {
   final int year;
   final String genre;
   final String discografy;
+  final String image;
 
   // Constructor principal
   Album({
@@ -10,15 +11,18 @@ class Album {
     required this.year,
     required this.genre,
     required this.discografy,
+    required this.image
   });
 
   // Método factory para crear un objeto Album a partir de JSON
   factory Album.fromJson(Map<String, dynamic> json) {
     return Album(
-      name: json['name'] ?? 'Sin título', // Valor por defecto si el campo está vacío
+      name: json['name'] ??
+          'Sin título', // Valor por defecto si el campo está vacío
       year: json['year'] ?? 0,
       genre: json['genre'] ?? 'Género desconocido',
       discografy: json['discografy'] ?? 'Discográfica desconocida',
+      image: json['image'] ?? 'none',
     );
   }
 
@@ -29,6 +33,7 @@ class Album {
       'year': year,
       'genre': genre,
       'discografy': discografy,
+      'image':image
     };
   }
 }
